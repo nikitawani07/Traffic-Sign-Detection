@@ -1,4 +1,4 @@
-# trafficSignDetection
+# Traffic Sign Detection
 
 This project implements the classification of of German Traffic Sign Recognition Benchmark dataset using various feature extraction methods and classification methods. The goal of this project was to achieve high accuracy in recognizing signs in real world.
 
