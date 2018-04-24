@@ -1,6 +1,6 @@
 # trafficSignDetection
 
-This project implements the classification of of German Traffic Sign Recognition Benchmark dataset using various feature extraction method and classification methods. The goal of this project was to achieve high accuracy in recognizing signs in real world.
+This project implements the classification of of German Traffic Sign Recognition Benchmark dataset using various feature extraction methods and classification methods. The goal of this project was to achieve high accuracy in recognizing signs in real world.
 
 
 ## Feature Extraction Methods
@@ -10,7 +10,7 @@ This project implements the classification of of German Traffic Sign Recognition
 3. Histogram of Gradients(HoG)
 
 
-## Classification Algorithm
+## Classification Algorithms
 
 1. Multi Layer Perceptron (MLP)
 2. K-Nearest Neighbors (K-NN)
